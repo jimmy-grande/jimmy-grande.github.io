@@ -1,0 +1,14 @@
+{
+  "name": "jimmy-grande.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jimmy-grande/jimmy-grande.github.io.git",
+  "author": "Jimmy GRANDE",
+  "license": "MIT",
+  "devDependencies": {
+    "create-react-app": "^1.5.2"
+  },
+  "dependencies": {
+    "gh-pages": "^1.1.0"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "profil": {
+    "fullName": "Jimmy GRANDE",
+    "age": 1988,
+    "mail": "grande.jimmy@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/jimmygrande",
+    "github": "https://github.com/jimmy-grande"
+  },
+  "skills": {
+    "technicals": ["C#", "Javascript", "Java"],
+    "soft": ["communication"]
+  },
+  "educations": [
+    {
+      "school": "ETNA",
+      "location": "Paris",
+      "level": "Master (Bac +5)",
+      "title": "Software architect, application developer",
+      "description":
+        "I study software development and learned mobile programmation, web programmation using differents languages (Javascript, Php, C#, Java).\r\n I also learned how to manage a project (on both technical side and governance side)"
+    },
+    {
+      "school": "I.U.T",
+      "location": "Dijon",
+      "level": "DUT (Bac+2)",
+      "title": "DUT SRC",
+      "description":
+        "I learned a lot with marketing, web design/programmation and the basics of network."
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Vente Privée",
+      "logo": "/assets/vente-privee.png",
+      "date": {
+        "begin": "2017/08"
+      },
+      "location": "Saint Denis",
+      "title": "Fullstack developer",
+      "description":
+        "I was hired as a fullstack developer @VPTech to help the Digital Factory's business unit. My role was to help my lead developer to build a Product Information Management system based on GS1 nomenclature.",
+      "missions": [""],
+      "stack": [""]
+    },
+    {
+      "company": "Bolloré logistics",
+      "logo": "/assets/bollore_logistics.png",
+      "date": {
+        "begin": "2016/12",
+        "end": "2017/06"
+      },
+      "location": "Puteaux",
+      "title": "Lead developer",
+      "description":
+        "In order to meet the new demands of the market, Bolloré has set up a team that can evolve the extranet dedicated to their clients. This extranet allows customers to simulate transport requests, make quotes for transportation goods, ensure the monitoring of goods, offer an optimized way of transport by minimizing CO2 emissions.",
+      "missions": [""],
+      "stack": [""]
+    },
+    {
+      "company": "Eurosport",
+      "logo": "/assets/eurosport.jpg",
+      "date": {
+        "begin": "2015/10",
+        "end": "2016/12"
+      },
+      "location": "Issy les moulineaux",
+      "title": "Fullstack developer",
+      "description":
+        "Design & Realization of several web applications and Windows services facilitating the input / recovery of information for LIVE programs. Creation of tools to facilitate the communication between the control room and the antenna assistants.",
+      "missions": [""],
+      "stack": [""]
+    },
+    {
+      "company": "GMPA",
+      "logo": "/assets/gmpa.png",
+      "date": {
+        "begin": "2015/07",
+        "end": "2015/09"
+      },
+      "location": "Saint Cloud",
+      "title": "Web technical manager",
+      "description":
+        "GMPA is the historical mutual of armies. Wishing to upgrade their membership space to the likes of the day, the GMPA decided to do a complete redesign by migrating their current Salesforce app to a Salesforce community.",
+      "missions": [""],
+      "stack": [""]
+    },
+    {
+      "company": "Fnac",
+      "logo": "/assets/fnac-logo.png",
+      "date": {
+        "begin": "2013/12",
+        "end": "2015/03"
+      },
+      "location": "Ivry sur seine",
+      "title": "Frontend engineer",
+      "description":
+        "Project 1: Fnac wished to update their tool dedicated to the sellers in store: FnacShop. This tool is a Web application realized in ASP.NET allowing to follow and to place orders for a customer. This application had to work under IE8 and the sellers be to be capable of placing an order only by using the keyboard. Project 2: Fnac wished to update the mobile version of their e-commerce site Fnac.com. This project of revision consisted in melting again one Web existing application of a technical point of view (ASP.NET towards MVC4) but also from a graphic point of view by using modern techniques of integration (Bootstrap, LESS).",
+      "missions": [""],
+      "stack": [""]
+    },
+    {
+      "company": "RTE",
+      "logo": "/assets/RTE.png",
+      "date": {
+        "begin": "2013/01",
+        "end": "2013/11"
+      },
+      "location": "Courbevoie",
+      "title": "Sharepoint technical manager",
+      "description":
+        "RTE had set up an evolutionary TMA to assure(insure) the MCO of their environment EDM (Documentum 6.5) and collaborative (SharePoint on 2010). My role was to assure(insure) the deliveries of application evolutions, to maintain the environment of customer recipe(takings) (6 Windows server 2008 and 9 waiters(servers) RedHat 5.5), to assure(insure) a level support(medium) 2 on the collaborative tools and to make trainings(formations) users.",
+      "missions": [""],
+      "stack": [""]
+    },
+    {
+      "company": "Fnac",
+      "logo": "./assets/fnac-logo.png",
+      "date": {
+        "begin": "2012/04",
+        "end": "2012/12"
+      },
+      "location": "Ivry sur seine",
+      "title": "Frontend engineer",
+      "description":
+        "Fnac wished to set up a tactile border in their experimental store (Paris Bercy) allowing the customers to consult the product catalog and to place an order directly on this border. The part(party) consultation of the catalog is an application Windows 8 and the part(party) commands(orders) is a Web application integrated(joined) into the application Windows 8. My role was to decline the graphics standards of the application Windows 8 on the part(party) command(order).",
+      "missions": [""],
+      "stack": [""]
+    },
+    {
+      "company": "Total",
+      "logo": "/assets/total-logo.png",
+      "date": {
+        "begin": "2011/12",
+        "end": "2012/03"
+      },
+      "location": "Courbevoie",
+      "title": "Sharepoint consultant",
+      "description":
+        "TOTAL wished to migrate their intranet SharePoint 2007 to SharePoint on 2010. My role was to assist the technical architect by analyzing the existing intranet to size the new infrastructure SharePoint. I had to set up an environment of development and continuous integration for 5 developers.",
+      "missions": [""],
+      "stack": [""]
+    }
+  ]
+}
